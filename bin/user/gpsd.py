@@ -12,7 +12,7 @@ from gps import *
 import weewx.drivers
 
 DRIVER_NAME = "GPSd"
-DRIVER_VERSION = "X"
+DRIVER_VERSION = "0.3"
 
 def logmsg(dst, msg):
     syslog.syslog(dst, 'gpsd: %s' % msg)
