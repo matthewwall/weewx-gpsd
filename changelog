@@ -1,0 +1,8 @@
+0.3 27oct2015
+* include DRIVER_NAME hint for weewx 3.2
+
+0.2 14oct2015
+* update readme with weewx 3.x instructions
+
+0.1 11dec2014
+* initial release as packaged weewx extension
