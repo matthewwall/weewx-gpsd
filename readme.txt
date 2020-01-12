@@ -1,5 +1,6 @@
 gpsd - driver for gpsd
 Copyright 2014 Matthew Wall
+Distributed under terms of the GPLv3
 
 Installation instructions:
 

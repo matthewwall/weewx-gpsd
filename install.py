@@ -1,8 +1,8 @@
-# $Id: install.py 1490 2016-05-03 14:39:16Z mwall $
 # installer for GPSd
 # Copyright 2014 Matthew Wall
+# Distributed under the terms of the GNU Public License (GPLv3)
 
-from setup import ExtensionInstaller
+from weecfg.extension import ExtensionInstaller
 
 def loader():
     return GPSdInstaller()
